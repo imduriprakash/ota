@@ -77,8 +77,8 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
 # Setup the breathe extension
-# breathe_projects = {
-#     "CypressOverTheAir": "../docs/api_reference_manual/xml"
-# }
+breathe_projects = {
+     "CypressOverTheAir": "../docs/api_reference_manual/xml"
+}
 # Breathe Configuration
 breathe_default_project = 'CypressOverTheAir'

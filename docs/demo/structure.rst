@@ -29,6 +29,10 @@ Donec vestibulum convallis justo, a faucibus lorem vulputate vel. Aliquam cursus
 Aliquam erat volutpat. Maecenas eget dictum mauris. Suspendisse arcu eros, condimentum eget risus sed,
 luctus efficitur arcu. Cras ut dictum mi. Nulla congue interdum lorem, semper semper enim commodo nec.
 
+.. doxygenfunction:: cy_ota_agent_start
+   :project: CypressOverTheAir
+
+
 Document Subsection
 -------------------
 
@@ -58,6 +62,13 @@ Pellentesque nec est in odio ultrices elementum. Vestibulum et hendrerit sapien,
 Suspendisse potenti. Curabitur tristique sit amet lectus non viverra. Phasellus rutrum dapibus turpis sed imperdiet.
 Mauris maximus viverra ante. Donec eu egestas mauris. Morbi vulputate tincidunt euismod. Integer vel porttitor neque.
 Donec at lacus suscipit, lacinia lectus vel, sagittis lectus.
+
+.. doxygenfunction:: cy_ota_get_state
+   :project: CypressOverTheAir
+
+.. doxygenstruct:: cy_ota_server_into_s
+   :project: CypressOverTheAir
+
 
 *********************
 Structural Elements 2

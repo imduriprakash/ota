@@ -1,14 +1,12 @@
 
 *********************
-:mod:`test_py_module`
+Cypress OTA Agent network abstraction for HTTP
 *********************
 
 .. contents:: Table of Contents
 
-.. automodule:: test_py_module.test
-    :members:
-    :private-members:
-    :special-members:
+.. doxygenfile:: cy_ota_api.h
+   :project: CypressOverTheAir
 
 Generated Index
 ===============

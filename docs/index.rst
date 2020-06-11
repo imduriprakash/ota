@@ -12,3 +12,17 @@
    configuring
    changelog
    contributing
+
+.. toctree::
+    :maxdepth: 2
+    :numbered:
+    :caption: Lib Reference
+
+    demo/api
+
+.. toctree::
+    :maxdepth: 2
+    :numbered:
+    :caption: Structures and Classes
+
+    demo/structure
