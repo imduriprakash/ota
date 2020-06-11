@@ -2,23 +2,31 @@
    sphinx-quickstart on Wed May 20 16:59:18 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
-
-Welcome to Cypress Over The Air's documentation!
-================================================
+.. include:: ../README.rst
 
 .. toctree::
+   :caption: Cypress Over The Air's documentation
    :maxdepth: 2
-   :caption: Contents:
 
-.. doxygenindex::
-   :project: CypressOverTheAir
+   Overview
+   configuring
+   changelog
+   contributing
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. toctree::
+    :maxdepth: 2
+    :numbered:
+    :caption: Demo Documents
 
-.. doxygenfunction:: cy_ota_agent_start
-   :project: CypressOverTheAir
+    demo/structure
+    demo/demo
+    demo/lists_tables
+    demo/api
+
+.. toctree::
+    :maxdepth: 3
+    :numbered:
+    :caption: Further Help
+
+    demo/long
