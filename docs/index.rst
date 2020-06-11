@@ -12,21 +12,3 @@
    configuring
    changelog
    contributing
-
-
-.. toctree::
-    :maxdepth: 2
-    :numbered:
-    :caption: Demo Documents
-
-    demo/structure
-    demo/demo
-    demo/lists_tables
-    demo/api
-
-.. toctree::
-    :maxdepth: 3
-    :numbered:
-    :caption: Further Help
-
-    demo/long
