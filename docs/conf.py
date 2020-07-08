@@ -82,3 +82,5 @@ html_static_path = ['_static']
 # }
 # Breathe Configuration
 breathe_default_project = 'CypressOverTheAir'
+
+applehelp_disable_external_tools = False
