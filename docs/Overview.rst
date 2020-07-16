@@ -15,6 +15,10 @@ Overview
 
  The ModusToolbox OTA code examples import this library automatically.
 
+A New Section
+==================
+A new section added, for testing.
+
 Features and functionality
 ==================
 This library utilizes MQTT and TLS to securely connect to an MQTT Broker and download an update for the users application.
