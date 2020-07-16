@@ -161,7 +161,7 @@ typedef enum {
 
 
 /**
- * @brief OTA callback reasons
+ * @brief OTA callback reasons with actual reasons for callback
  */
 typedef enum {
     CY_OTA_REASON_AGENT_STARTED = 0,            /**< Agent started successfully     */
