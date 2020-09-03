@@ -412,7 +412,7 @@ cy_rslt_t cy_ota_validated(void);
  * @brief Get OTA Agent State
  *
  * @param[in]  ota_ptr          pointer to OTA Agent context returned from @ref cy_ota_agent_start();
- * @param[out] state            Current OTA State
+ * @param[out] state            Current OTA State added new desciption
  *
  * @result @ref cy_ota_agent_state_t
  */
