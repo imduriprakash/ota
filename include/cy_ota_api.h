@@ -373,11 +373,11 @@ cy_rslt_t cy_ota_agent_start(cy_ota_network_params_t *network_params, cy_ota_age
 
 
 /**
- * @brief Stop OTA Background Agent
+ * @brief Stop OTA Background Agent and added some more heading to the function
  *
  *  Stop thread to monitor OTA updates and release resources.
  *
- * @param[in] ota_ptr         pointer to OTA Agent context storage returned from @ref cy_ota_agent_start();
+ * @param[in] ota_ptr        a new pointer to OTA Agent context storage returned from @ref cy_ota_agent_start();
  *
  * @return  CY_RSLT_SUCCESS
  *          CY_RSLT_MODULE_OTA_ERROR
